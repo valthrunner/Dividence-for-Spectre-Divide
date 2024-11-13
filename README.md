@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2b583175-9623-4ff9-82a5-1395824a3ef7" />
-</p>
+<h1 align="center">Dividence</h1>
 
 <p align="center">
   <a href="https://www.unknowncheats.me/forum/other-fps-games/660411-spectre-divide-colorbot.html">UnKnoWnCheaTs thread</a>
